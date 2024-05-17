@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. **Start the Streamlit application:**
 
     ```bash
-    streamlit run app.py
+    streamlit run Home.py
     ```
 
 2. **Open your browser and navigate to:**
@@ -84,9 +84,9 @@ For manual input, you will need to provide the following parameters:
 - Application
 - Width
 - Product Ref
-- Quantity Tons Log
-- Thickness Log
-- Selling Price Log
+- Quantity Tons
+- Thickness
+- Selling Price
 - Item Date Day
 - Item Date Month
 - Item Date Year
@@ -110,9 +110,9 @@ The input data should be in CSV format with the following columns:
 - `application`
 - `width`
 - `product_ref`
-- `quantity_tons_log`
-- `thickness_log`
-- `selling_price_log`
+- `quantity_tons`
+- `thickness`
+- `selling_price`
 - `item_date_day`
 - `item_date_month`
 - `item_date_year`
