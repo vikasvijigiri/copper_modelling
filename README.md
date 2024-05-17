@@ -1,4 +1,3 @@
-```markdown
 # Copper Modelling Industrial
 
 ## Introduction
